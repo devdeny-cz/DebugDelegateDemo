@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DebugExample": {
+      "commandName": "Project",
+      "commandLineArgs": "kocour"
+    }
+  }
+}
