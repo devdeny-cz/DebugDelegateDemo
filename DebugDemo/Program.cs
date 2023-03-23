@@ -3,14 +3,17 @@
 using DebugExample;
 
 
+// example input arguments
 #if DEBUG
-    Console.WriteLine(args.Length > 0 ? args[0] : "Nemám argument");
+Console.WriteLine(args.Length > 0 ? args[0] : "Nemám argument");
 #endif
 
+// example threads
 #if RunThread
-    new Threads().RunThreads();
+new Threads().RunThreads();
 #endif
 
+// example debug arguments
 #if RunPersons
 List<Person> persons = new List<Person>()
 {
@@ -21,11 +24,14 @@ List<Person> persons = new List<Person>()
 };
 #endif
 
+// example CallStack and exceptions
+new CallStackDeep().Deep1();
+
 
 int x = 0;
 for (int i = 0; i < 10000; i++)
 {
-    x += i; 
+    x += i;
 }
 
 Console.ReadLine();

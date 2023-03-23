@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jp4F3jWpH8SnSP4qu0UEjtq6+JgO0Igd4DnEk5jfmxqdLlwwXg1fjRu2jffGOsk4f1Kd9J2mFmoJPrevPQIU1g==",
+  "dgSpecHash": "R379r7UB5AJuVkz3RnULuWhhZBGm7DqDlBwEnLcVOgxEfFGTBQtglA58YmwdHwxkSqxFYTsQhl44NhomKMdbjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Deny\\source\\repos\\DebugExample\\DebugExample\\DebugExample.csproj",
+  "projectFilePath": "C:\\Users\\Deny\\Documents\\GitHub\\DebugDelegateDemo\\DebugDemo\\DebugExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
